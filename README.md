@@ -34,3 +34,6 @@ Simple dataset with:
 * Add more features (attendance, previous scores)
 * Improve model accuracy
 * Deploy on cloud
+
+## 🌐 Live Demo
+👉 **[Open Web App](https://student-score-predictor-bwfgm2txpezqv4tkutcthk.streamlit.app/)**
